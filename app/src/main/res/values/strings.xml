@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LFC News</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="liverpool">http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg</string>
+    <string-array name="teams">
+        <item>http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg</item>
+        //Arsenal
+        <item>https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png</item>
+        //Burnley
+        <item>http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg</item>
+        //Tottenham Hotspur
+        <item>http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png</item>
+        //Leicester City
+        <item>http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg</item>
+        //Chelsea
+        <item>http://upload.wikimedia.org/wikipedia/de/a/a9/Hull_City_AFC.svg</item>
+        //Hull City
+    </string-array>
+</resources>
